@@ -1,2 +1,7 @@
 # Customer-Segmentation-using-ML
-In this project i built a prototype of a Customer Segmentation model
+In this project, I built a prototype of a Customer Segmentation model
+
+# What is Customer Segmentation?
+In marketing, market segmentation is the process of dividing a broad consumer or business market, normally consisting of existing and potential customers, into sub-groups of consumers based on some type of shared charateristics.
+
+Customer segmentation is **the process by which you divide your customers up based on common characteristics-** such as demographics or behaviors, so you can market to those customers more effectively. These customer segmentation groups can also be used to begin discussions building a marketing persona.

@@ -9,3 +9,16 @@ Customer segmentation is **the process by which you divide your customers up bas
 # Application of Customer Segmentation
 **Customer Segmentation** is performed in Machine Learning / AI to perform several different purposes. Some of the places where we can use these are:
  * Demographic Segmentation
+ * Geographic Segmentation
+ * Technographic Segmentation
+ * Behavioral Segmentation
+And More...
+
+# Understanding the Problem Statement
+We have a data set which contains certain parameters and based on those parameters some clusters are assigned to them. We will see how we can assign these clusters and will try to do some analysis on the same.
+
+# Timeline of the project 
+  * Importing Libraries
+  * Data Analysis
+  * Data Preprocessing
+  * Model Building

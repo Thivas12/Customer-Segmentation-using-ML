@@ -6,6 +6,9 @@ In marketing, market segmentation is the process of dividing a broad consumer or
 
 Customer segmentation is **the process by which you divide your customers up based on common characteristics-** such as demographics or behaviors, so you can market to those customers more effectively. These customer segmentation groups can also be used to begin discussions building a marketing persona.
 
+![image](https://user-images.githubusercontent.com/86511074/168649699-c7bff003-f1f3-4403-a5f1-78f35637f859.png)
+
+
 # Application of Customer Segmentation
 **Customer Segmentation** is performed in Machine Learning / AI to perform several different purposes. Some of the places where we can use these are:
  * Demographic Segmentation

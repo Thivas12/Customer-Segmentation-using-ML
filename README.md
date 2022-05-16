@@ -13,6 +13,8 @@ Customer segmentation is **the process by which you divide your customers up bas
  * Technographic Segmentation
  * Behavioral Segmentation
 And More...
+![image](https://user-images.githubusercontent.com/86511074/168649534-770dee2a-e8c4-480b-9fc9-6931e921105d.png)
+
 
 # Understanding the Problem Statement
 We have a data set which contains certain parameters and based on those parameters some clusters are assigned to them. We will see how we can assign these clusters and will try to do some analysis on the same.

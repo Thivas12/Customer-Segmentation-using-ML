@@ -13,6 +13,7 @@ Customer segmentation is **the process by which you divide your customers up bas
  * Technographic Segmentation
  * Behavioral Segmentation
 And More...
+
 ![image](https://user-images.githubusercontent.com/86511074/168649534-770dee2a-e8c4-480b-9fc9-6931e921105d.png)
 
 
